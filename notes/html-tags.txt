@@ -1,4 +1,12 @@
 
+HTML (HyperText Markup Language - Lingua di Marcatura Ipertestuale) è il linguaggio di markup standard utilizzato per creare pagine web.
+Markup language (linguaggio di markup) è un sistema di annotazione che consente di strutturare e formattare il contenuto di un documento.
+HTML è un linguaggio di markup che utilizza tag per definire la struttura e il contenuto di una pagina web.
+
+Altri linguaggi di markup includono XML (eXtensible Markup Language) e Markdown, che sono utilizzati per scopi diversi ma condividono l'idea di utilizzare tag per strutturare il contenuto.
+
+--------------------------------------------------------------
+
 I tag in html sono dei comandi che permettono di strutturare e formattare il contenuto di una pagina web. 
 I tag HTML sono fondamentali per la creazione di pagine web e sono utilizzati per definire la struttura e il contenuto di un sito.
 
@@ -15,8 +23,6 @@ Tuttavia, è comune utilizzare i tag in minuscolo per una migliore leggibilità.
 Scrivendo ! e premendo tab (o invio, a seconda dell'editor), si può inserire automaticamente la dichiarazione !DOCTYPE html in un documento HTML.
 
 ----------------------------------------------------
-
-Tag HTML:
 
 In una pagina html, !DOCTYPE è una dichiarazione che indica al browser quale versione di HTML viene utilizzata.
 La dichiarazione !DOCTYPE è importante perché aiuta il browser a interpretare correttamente il codice HTML e a visualizzare la pagina web in modo coerente su diversi dispositivi e browser.
@@ -40,3 +46,6 @@ Ad esempio, `<!DOCTYPE html>` indica che la pagina utilizza HTML5, che è la ver
 Scegliere la lingua usando l'attributo lang nel tag html per indicare la lingua del contenuto della pagina web.
 Ad esempio, `<!DOCTYPE html><html lang="it">` indica che la pagina è scritta in italiano. 
 Questo è importante per l'accessibilità e per i motori di ricerca, poiché aiuta a identificare la lingua del contenuto e a fornire una migliore esperienza utente.
+
+
+

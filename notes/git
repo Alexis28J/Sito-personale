@@ -1,0 +1,38 @@
+Git è un sistema di controllo versione distribuito che consente agli sviluppatori di tenere traccia delle modifiche al codice sorgente nel tempo.
+Github è una piattaforma di hosting per progetti software che utilizza Git come sistema di controllo versione.
+
+Un repository Git è un archivio che contiene il codice sorgente di un progetto e la cronologia delle modifiche apportate al progetto nel tempo.
+
+Un progetto su Github è un repository Git ospitato sulla piattaforma Github, che consente agli sviluppatori di collaborare e condividere il codice sorgente del progetto con altri sviluppatori.
+
+Un repository e un progetto su Github sono concetti strettamente correlati, poiché un progetto su Github è essenzialmente un repository Git ospitato sulla piattaforma Github.
+
+
+Clone: Clonare un repository Git significa creare una copia locale del repository remoto su Github.
+Questo processo consente agli sviluppatori di lavorare sul codice sorgente in locale, apportare modifiche e successivamente sincronizzarle con il repository remoto su Github.
+
+
+Push: Fare il push del progetto su Github significa inviare le modifiche locali al repository remoto su Github.
+Questo processo consente di condividere le modifiche con altri sviluppatori e di tenere il repository remoto aggiornato con le ultime modifiche apportate al codice sorgente.
+
+Pull: Fare il pull del progetto su Github significa scaricare le modifiche dal repository remoto su Github e integrarle con la copia locale del repository.
+Questo processo consente di mantenere la copia locale del repository aggiornata con le ultime modifiche apportate da altri sviluppatori e di risolvere eventuali conflitti tra le modifiche locali e quelle remote.
+
+Fork: Fare un fork di un repository su Github significa creare una copia del repository originale sotto il proprio account Github.
+Questo processo consente agli sviluppatori di apportare modifiche al codice sorgente senza influirere sul repository originale e di proporre le modifiche al repository originale tramite una pull request.
+
+
+La differenza tra fork e clone è che il fork crea una copia del repository originale sotto il proprio account Github, mentre il clone crea una copia locale del repository remoto su Github.
+
+La differenza tra pull e fork è che il pull scarica le modifiche dal repository remoto su Github e le integra con la copia locale del repository, mentre il fork crea una copia del repository originale sotto il proprio account Github per apportare modifiche senza influire sul repository originale.
+
+
+Commit: Fare la commit del progetto su Github significa salvare le modifiche al codice e inviarle al repository remoto su Github.
+Questo processo consente di tenere traccia delle modifiche apportate al progetto nel tempo e di collaborare con altri sviluppatori.
+
+
+La differenza tra push e commit è che il commit è un'operazione locale che registra le modifiche nel repository locale, mentre il push è un'operazione remota che invia le modifiche al repository remoto su Github.
+
+
+Fetch: Fare il fetch del progetto su Github significa scaricare le modifiche dal repository remoto su Github senza integrarle con la copia locale del repository.
+Questo processo consente di vedere le modifiche apportate da altri sviluppatori senza influire sulla copia locale del repository e di decidere quando integrare le modifiche con un pull.
